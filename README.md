@@ -21,10 +21,12 @@ This is a developmental prototype for reflection and professional dialogue. It i
 
 ## Conceptual origin and attribution
 
+**Concept and educational framework: Larry McNutt.**
+
 The resource was stimulated by Economist Impact, *Health drives wealth: the economic impact of health inclusivity* (2025), supported by Haleon. It makes an original educational translation; health findings are not presented as evidence about AI.
 
 ## Website
 
-Once GitHub Pages is enabled, the resource will be available at:
+The live resource is available at:
 
 https://labhrasmcnutt-png.github.io/ai-literacy-inclusivity-index/
